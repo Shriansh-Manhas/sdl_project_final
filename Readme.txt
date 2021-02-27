@@ -8,7 +8,7 @@ libsdl2-image2.0-0
 libsdl2-image-dbg(obselete on newer systems)
 libsdl2-image-dev
 
-download file with git clone https://github.com/Shriansh-Manhas/sdl_project.git
+download file with git clone https://github.com/Shriansh-Manhas/sdl_project_final.git
 use command make
 then ./game
 
