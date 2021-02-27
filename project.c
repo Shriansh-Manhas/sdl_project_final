@@ -484,7 +484,7 @@ int main(void)
 
         // collision detection with bounds
         if (x_pos <= 0) x_pos = 0;
-        if (y_pos <= 0) y_pos = 0;
+        if (y_pos <= WINDOW_HEIGHT/2) y_pos = WINDOW_HEIGHT/2;
         if (x_pos >= WINDOW_WIDTH - dests.w) x_pos = WINDOW_WIDTH - dests.w;
         if (y_pos >= WINDOW_HEIGHT - dests.h) y_pos = WINDOW_HEIGHT - dests.h;
 
