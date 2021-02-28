@@ -498,7 +498,7 @@ int main(void)
         destb.y = (int) y_posb;
         destb.x = (int) x_posb;
         
-        if(y_posb == 0)
+        if(y_posb < 0)
         {
             x_posb = x_pos + dests.w/2 - 5;
             y_posb = y_pos;
