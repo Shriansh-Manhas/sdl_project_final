@@ -1,5 +1,7 @@
 1 v 1 space fighter, loosely themed on galaga
 
+You cannot run this on an ide, you need a linux platform or a virtual disk
+
 libraries required:
 libsdl2-2.0-0
 libsdl2-dbg(obselete on newer systems)
