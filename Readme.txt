@@ -16,4 +16,3 @@ then ./game
 
 the game begins with the ships facing each other, move quickly if you don't
 want to get hit.
-![](What it looks like/5.JPG)
